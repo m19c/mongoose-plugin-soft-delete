@@ -1,0 +1,12 @@
+machine:
+  node:
+    version: 4.2.6
+dependencies:
+  override:
+    - rm -rf node_modules
+    - npm i
+test:
+  override:
+    - gulp lint
+    - gulp test
+    - gulp codacy
