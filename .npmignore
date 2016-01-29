@@ -1,0 +1,6 @@
+dist
+test
+.editorconfig
+.eslintrc
+.gitignore
+gulpfile.js

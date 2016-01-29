@@ -1,0 +1,51 @@
+{
+  "name": "mongoose-plugin-soft-delete",
+  "version": "1.0.0",
+  "description": "A mongoose plugin to handle soft-deletes",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrBoolean/mongoose-plugin-soft-delete.git"
+  },
+  "keywords": [
+    "mongoose",
+    "plugin",
+    "mongooseplugin",
+    "softdelete",
+    "delete",
+    "soft",
+    "restore"
+  ],
+  "author": "Marc Binder <marcandrebinder@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrBoolean/mongoose-plugin-soft-delete/issues"
+  },
+  "homepage": "https://github.com/MrBoolean/mongoose-plugin-soft-delete#readme",
+  "peerDependencies": {
+    "mongoose": "4.x.x"
+  },
+  "devDependencies": {
+    "babel-eslint": "^4.1.6",
+    "del": "^2.2.0",
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^4.0.0",
+    "eslint-plugin-react": "^3.16.1",
+    "gulp": "^3.9.0",
+    "gulp-codacy": "^1.0.0",
+    "gulp-eslint": "^1.1.1",
+    "gulp-if": "^2.0.0",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-mocha": "^2.2.0",
+    "gulp-sequence": "^0.4.4",
+    "lodash.merge": "^4.0.2",
+    "should": "^8.2.1"
+  },
+  "dependencies": {
+    "lodash.defaultsdeep": "^4.0.2",
+    "lodash.isfunction": "^3.0.7"
+  }
+}
