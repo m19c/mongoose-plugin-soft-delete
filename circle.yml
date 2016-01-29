@@ -4,7 +4,7 @@ machine:
 dependencies:
   override:
     - rm -rf node_modules
-    - npm i
+    - npm i && npm i -g gulp
 test:
   override:
     - gulp lint

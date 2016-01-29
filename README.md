@@ -1,6 +1,5 @@
 # mongoose-plugin-soft-delete
-[![Build Status](https://circleci.com/gh/MrBoolean/mongoose-plugin-soft-delete.svg?style=shield)](https://circleci.com/gh/MrBoolean/mongoose-plugin-soft-delete/tree/master) 
-
+[![Circle CI](https://circleci.com/gh/MrBoolean/mongoose-plugin-soft-delete.svg?style=svg)](https://circleci.com/gh/MrBoolean/mongoose-plugin-soft-delete)
 
 `mongoose-plugin-soft-delete` enables you:
 
