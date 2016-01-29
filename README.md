@@ -1,5 +1,5 @@
 # mongoose-plugin-soft-delete
-[![Build Status](https://circleci.com/gh/MrBoolean/mongoose-plugin-soft-delete.svg?style=shield&circle-token=adcd04014305c8bcb9a2e220fd9e5a3b5ccd0f84)](https://circleci.com/gh/MrBoolean/mmongoose-plugin-soft-delete/tree/master) [![Codacy Badge](https://api.codacy.com/project/badge/grade/d47e0014e60c4292932033d553042ba1)](https://www.codacy.com) [![Codacy Badge](https://api.codacy.com/project/badge/coverage/d47e0014e60c4292932033d553042ba1)](https://www.codacy.com)
+[![Build Status](https://circleci.com/gh/MrBoolean/mongoose-plugin-soft-delete.svg?style=shield)](https://circleci.com/gh/MrBoolean/mongoose-plugin-soft-delete/tree/master) 
 
 
 `mongoose-plugin-soft-delete` enables you:
