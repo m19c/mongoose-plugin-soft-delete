@@ -45,7 +45,7 @@
     "should": "^8.2.1"
   },
   "dependencies": {
-    "lodash.defaultsdeep": "^4.0.2",
+    "lodash.merge": "^4.0.2",
     "lodash.isfunction": "^3.0.7"
   }
 }
